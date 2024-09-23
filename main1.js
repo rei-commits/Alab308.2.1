@@ -21,6 +21,7 @@ console.log(predictPlantGrowth(1));
 console.log(predictPlantGrowth(2));
 console.log(predictPlantGrowth(3));
 
+
 // Part 2
 
 const initialPlantsPart2 = 100; // starting number of plants for Part 2
